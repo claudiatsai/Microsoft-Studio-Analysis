@@ -1,6 +1,9 @@
 # Microsoft Movie Studio Analysis
 
+
+```python
 ![alt text here](image/movie_1.jpg)
+```
 
 #### Picture Source:
 <br>
@@ -34,6 +37,8 @@ Python, Numpy, Pandas, Matplotlib and Seaborn
 
 ![alt text here](image/d_gross_genres.jpg?raw=true)
 
+<img src='image/d_gross_genres.jpg'>
+
 ### Worldwide Gross by Genres
 
 ![alt text here](image/w_gross_genres.jpg)
@@ -66,7 +71,10 @@ Python, Numpy, Pandas, Matplotlib and Seaborn
 
 ![alt text here](image/w_roi_season.jpg)
 
+
+```python
 ![alt text here](image/10w_springgen_roi.jpg)
+```
 
 ### Production Budget Distribution
 
