@@ -66,7 +66,7 @@ Python, Numpy, Pandas, Matplotlib and Seaborn
 
 ![alt text here](image/w_roi_season.JPG)
 
-![alt text here](image/10w_springgen_roi.JPG)
+![alt text here](image/10w_springgen_gross.JPG)
 
 ### Production Budget Distribution
 
@@ -96,11 +96,6 @@ worldwide ROI, especially in April.
 
 * Further analyses could yield additional insights to movies' net profit.
 * Data for percentage to distributors might help to determine if the film is profitable.
-* Due to the pandemic, movie studios released movies online only or online and in theaters.  An analysis of streaming service revenues could help decision-making of film types Microsoft going to make. 
+* Due to the pandemic, movie studios released movies online only or online and in theaters.  An analysis of streaming services provided by movie studio is also helpful on decision making.
 * An analysis of streaming platforms’ data could provide more ideas of content making.
 
-
-
-```python
-
-```
