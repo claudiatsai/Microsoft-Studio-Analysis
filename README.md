@@ -1,7 +1,5 @@
 # Microsoft Movie Studio Analysis
 
-![alt text here](image/movie_1.jpg)
-
 <img src="image/movie_1.jpg">
 
 #### Picture Source:
@@ -34,21 +32,19 @@ Python, Numpy, Pandas, Matplotlib and Seaborn
 
 ### Domestic Gross by Genres
 
-![TEST2](image/d_gross_genres.JPG)
-
 <img src="image/d_gross_genres.JPG">
 
 ### Worldwide Gross by Genres
 
-![alt text here](image/w_gross_genres.jpg)
+![alt text here](image/w_gross_genres.JPG)
 
 ### Top 10 Domestic ROI by Genres
 
-![alt text here](image/10d_genres_roi.jpg)
+![alt text here](image/10d_genres_roi.JPG)
 
 ### Top 10 Worldwide ROI by Genres
 
-![alt text here](image/10w_genres_roi.jpg)
+![alt text here](image/10w_genres_roi.JPG)
 
 ### The Month with Highest Domestic ROI 
 
@@ -56,28 +52,25 @@ Python, Numpy, Pandas, Matplotlib and Seaborn
 
 ### Domestic ROI by Seasons
 
-![alt text here](image/d_roi_season.jpg)
+![alt text here](image/d_roi_season.JPG)
 
 ### Genres with Top 10 Domestic ROI in Summer
 
-![alt text here](image/10d_summergen_roi.jpg)
+![alt text here](image/10d_summergen_roi.JPG)
 
 ### The Month with Highest Worldwide ROI
 
-![alt text here](image/W_roi_month.jpg)
+![alt text here](image/W_roi_month.JPG)
 
 ### Worldwide ROI by Season
 
-![alt text here](image/w_roi_season.jpg)
+![alt text here](image/w_roi_season.JPG)
 
-
-```python
-![alt text here](image/10w_springgen_roi.jpg)
-```
+![alt text here](image/10w_springgen_roi.JPG)
 
 ### Production Budget Distribution
 
-![alt text here](image/budget_hist.jpg)
+![alt text here](image/budget_hist.JPG)
 
 ### Relation between Production Budget and Worldwide Gross
 
@@ -85,7 +78,7 @@ Python, Numpy, Pandas, Matplotlib and Seaborn
 
 ### Worldwide ROI with High Budget by Genres
 
-![alt text here](image/high_budget.jpg)
+![alt text here](image/high_budget.JPG)
 
 ## Conclusion
 
