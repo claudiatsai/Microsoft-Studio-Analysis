@@ -34,15 +34,9 @@ Python, Numpy, Pandas, Matplotlib and Seaborn
 
 ### Domestic Gross by Genres
 
-
-```python
 ![TEST2](image/d_gross_genres.JPG)
-```
 
-
-```python
 <img src="image/d_gross_genres.JPG">
-```
 
 ### Worldwide Gross by Genres
 
